@@ -45,3 +45,9 @@ petCare-landingPage/ <br>
    ```
 2. Open **index.html** in your browser to view the landing page.
 
+---
+
+## 🤝 Let's Connect
+If you find this repository useful or inspiring, feel free to ⭐️ the repo and connect with me on htps://www.linkedin.com/in/swaraj-phalke-b5539b220/.
+
+
